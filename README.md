@@ -1,1 +1,1 @@
-# Series_de_tiempo
+# Series de tiempo
